@@ -1,0 +1,5 @@
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\ZebPay.Core\bin\Debug\ZebPay.Core.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\ZebPay.Core\bin\Debug\ZebPay.Core.pdb
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\ZebPay.Core\obj\Debug\ZebPay.Core.csprojResolveAssemblyReference.cache
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\ZebPay.Core\obj\Debug\ZebPay.Core.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\ZebPay.Core\obj\Debug\ZebPay.Core.pdb

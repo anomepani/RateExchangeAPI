@@ -1,0 +1,12 @@
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\bin\Debug\Zebpay.Data.dll.config
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\bin\Debug\Zebpay.Data.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\bin\Debug\Zebpay.Data.pdb
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\bin\Debug\EntityFramework.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\bin\Debug\ZebPay.Core.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\bin\Debug\ZebPay.Core.pdb
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\bin\Debug\EntityFramework.xml
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\obj\Debug\Zebpay.Data.csprojResolveAssemblyReference.cache
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\obj\Debug\Zebpay.Data.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Data\obj\Debug\Zebpay.Data.pdb

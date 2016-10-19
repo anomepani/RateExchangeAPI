@@ -1,0 +1,11 @@
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\bin\Debug\Zebpay.Domain.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\bin\Debug\Zebpay.Domain.pdb
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\bin\Debug\ZebPay.Core.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\bin\Debug\Zebpay.Data.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\bin\Debug\ZebPay.Core.pdb
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\bin\Debug\Zebpay.Data.pdb
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\obj\Debug\Zebpay.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\obj\Debug\Zebpay.Domain.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\ZebpayRateExchangeAPI\Zebpay.Domain\obj\Debug\Zebpay.Domain.pdb

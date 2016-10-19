@@ -49,7 +49,7 @@ namespace Zebpay.Rate.Webjob
                 {
 
                 }
-                await Task.Delay(TimeSpan.FromMinutes(500));
+                await Task.Delay(TimeSpan.FromMinutes(5));
             }
         }
 
