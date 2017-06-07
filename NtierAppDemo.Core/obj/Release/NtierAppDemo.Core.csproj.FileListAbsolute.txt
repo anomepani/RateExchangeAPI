@@ -1,0 +1,8 @@
+C:\Projects\RateExchangeAPI\ZebPay.Core\bin\Release\ZebPay.Core.dll
+C:\Projects\RateExchangeAPI\ZebPay.Core\bin\Release\ZebPay.Core.pdb
+C:\Projects\RateExchangeAPI\ZebPay.Core\obj\Release\ZebPay.Core.dll
+C:\Projects\RateExchangeAPI\ZebPay.Core\obj\Release\ZebPay.Core.pdb
+C:\Projects\RateExchangeAPI\NtierAppDemo.Core\bin\Release\ZebPay.Core.dll
+C:\Projects\RateExchangeAPI\NtierAppDemo.Core\bin\Release\ZebPay.Core.pdb
+C:\Projects\RateExchangeAPI\NtierAppDemo.Core\obj\Release\ZebPay.Core.dll
+C:\Projects\RateExchangeAPI\NtierAppDemo.Core\obj\Release\ZebPay.Core.pdb

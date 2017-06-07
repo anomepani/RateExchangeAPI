@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="ZebPayDbConnection-Web.config Connection String" description="ZebPayDbConnection Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:v6dng9ktdm.database.windows.net,1433;Database=ZebPay;User ID=arvind@v6dng9ktdm;Password=Abc12345;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\Arvind\\Documents\\Visual\ Studio\ 2015\\Projects\\ZebpayRateExchangeAPI\\Zebpay\.Rate\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ZebPayDbConnection']/@connectionString" />
-  </parameter>
-</parameters>
