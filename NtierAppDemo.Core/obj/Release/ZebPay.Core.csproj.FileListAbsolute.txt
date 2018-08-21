@@ -1,4 +1,0 @@
-C:\Users\Arvind\Documents\Visual Studio 2015\Projects\ZebpayRateExchangeAPI\ZebPay.Core\bin\Release\ZebPay.Core.dll
-C:\Users\Arvind\Documents\Visual Studio 2015\Projects\ZebpayRateExchangeAPI\ZebPay.Core\bin\Release\ZebPay.Core.pdb
-C:\Users\Arvind\Documents\Visual Studio 2015\Projects\ZebpayRateExchangeAPI\ZebPay.Core\obj\Release\ZebPay.Core.dll
-C:\Users\Arvind\Documents\Visual Studio 2015\Projects\ZebpayRateExchangeAPI\ZebPay.Core\obj\Release\ZebPay.Core.pdb
